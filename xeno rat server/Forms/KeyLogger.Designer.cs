@@ -1,5 +1,5 @@
 ﻿
-namespace xeno_rat_server.Forms
+namespace xenonServer.Forms
 {
     partial class KeyLogger
     {

@@ -11,7 +11,7 @@ using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using NAudio.Wave;
 
-namespace xeno_rat_server.Forms
+namespace xenonServer.Forms
 {
     public partial class Live_Microphone : Form
     {

@@ -15,7 +15,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace xeno_rat_client
+namespace xenonClient
 {
     public class Utils
     {

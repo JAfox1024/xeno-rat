@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace xeno_rat_server
+namespace xenonServer
 {
     public partial class Node
     {

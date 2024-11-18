@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace xeno_rat_client
+namespace xenonClient
 {
     class Compression
     {

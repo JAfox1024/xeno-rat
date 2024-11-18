@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace xeno_rat_client
+namespace xenonClient
 {
     class Program
     {
